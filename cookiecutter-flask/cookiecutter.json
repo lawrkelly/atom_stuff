@@ -1,0 +1,12 @@
+{
+  "full_name": "Lawrence Kelly",
+  "email": "lawrkelly@gmail.com",
+  "github_username": "lawrkelly",
+  "project_name": "Flask sitr",
+  "app_name": "{{cookiecutter.project_name.lower().replace('-', '_').replace(' ', '_')}}",
+  "project_short_description": "A flasky app.",
+  "use_pipenv": ["no", "yes"],
+  "python_version": ["3.8", "3.7", "3.6"],
+  "node_version": ["12", "10"],
+  "use_heroku": ["no", "yes"]
+}
